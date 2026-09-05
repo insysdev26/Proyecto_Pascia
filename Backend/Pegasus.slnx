@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Pegasus.API/Pegasus.API.csproj" />
+  <Project Path="Pegasus.Core/Pegasus.Core.csproj" />
+  <Project Path="Pegasus.Infrastructure/Pegasus.Infrastructure.csproj" />
+</Solution>

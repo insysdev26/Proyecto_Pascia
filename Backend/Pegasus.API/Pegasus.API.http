@@ -1,0 +1,6 @@
+@Pegasus.API_HostAddress = http://localhost:5100
+
+GET {{Pegasus.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
